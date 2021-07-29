@@ -1,0 +1,19 @@
+Para ejecutar el Dashboard de Vacunados contra el SARS-CoV-2. en Argentina 
+primero debemos tener instaladas las siguientes dependencias
+
+pip install dash
+pip install dash-renderer
+pip install dash-html-components
+pip install dash-core-components
+pip install pandas
+
+Las depedencias se instalas con el siguiente comando
+py -m pip install "Nombre de la depedencia"
+
+posteriormente  de ejecuta el proyecto
+
+El archivo que contiene los datos debe estar en la misma carpeta que el archivo index.py
+de lo contrario se tendra que declarar la ruta donde este se encuentre
+
+Es todo el proceso de ejecucion
+ :D
